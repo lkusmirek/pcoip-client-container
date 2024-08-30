@@ -3,7 +3,7 @@ Pcoip Cleint Container for Linux
 
 #Step 1 install apptainer and apptainer-suid from epel
 
-https://apptainer.org/getting-started/
+https://apptainer.org/docs/user/main/quick_start.html
 
 #Step 2 Build the .sif file
 
